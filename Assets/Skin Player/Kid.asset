@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ea1bc82efcbc934b9e74fd5bd65456d, type: 3}
+  m_Name: Kid
+  m_EditorClassIdentifier: 
+  skinName: Jason
+  skinImage: {fileID: 23666095708266398, guid: 94e1f627dd7aec04e88a516a2d2bb058, type: 3}
+  playerPrefabs: {fileID: 185415667069710901, guid: d62df66c04ccdf6418f8e8f636d5b8a7, type: 3}
